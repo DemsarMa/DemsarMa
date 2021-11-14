@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matej Demsar
+- 👋 Hi, I’m Matt
 - I'm a senior student electrical enginner based in Slovenia.
 - 🌱 I’m currently learning JavaScript, developing my own portfolio website.
 
