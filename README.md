@@ -9,8 +9,8 @@
 
 **Proud owner of ArtUnionMC, located in 3 regions:**
 
-thisisartunion.com (Europe)
-na.thisisartunion.com (North America) (unavailable)
+thisisartunion.com (Europe)\n
+na.thisisartunion.com (North America) (unavailable)\n
 ap.thisisartunion.com (Asia and Oceania) (unavailable)
 
 ## How to reach me?
