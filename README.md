@@ -11,8 +11,8 @@
 **Proud owner of ArtUnionMC, located in 3 regions:**
 
 - thisisartunion.com (Europe)
-- na.thisisartunion.com (North America) (unavailable)
-- ap.thisisartunion.com (Asia and Oceania) (unavailable)
+- na.thisisartunion.com (North America)
+- ap.thisisartunion.com (Asia and Oceania)
 
 ## How to reach me?
 You can hit me up on Discord: **MtkoGaming_TW#0001**
