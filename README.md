@@ -6,7 +6,11 @@
 
 **I'm a senior student electrical enginner based in Slovenia.**
 
-🌱 **I’m currently learning Java and JS**
+🌱 **I’m currently learning Java and JS and trying to use various APIs**
+
+**I'm currently working on osu! top 1000 score notifier and automatic osu! mutual by redeeming channel points by watching my stream on Twitch**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemsarMa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Proud owner of ArtUnionMC, located in 3 regions:**
 
