@@ -9,7 +9,7 @@
 🌱 **I’m currently learning Java and JS and trying to use various APIs**
 
 ## Projects
-**I'm currently working on osu! top 1000 score notifier and automatic osu! mutual by redeeming channel points by watching my stream on Twitch**
+**I'm currently translating the whole osu! game in Slovenian language.**
 
 ## Qualifications
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemsarMa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
