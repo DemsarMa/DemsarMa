@@ -6,15 +6,18 @@
 
 :book: **I'm an electrical student based in Slovenia, graduated in highschool and am certified to work in electronic environment.**
 
-🌱 **I’m currently learning Java and JS and trying to use various APIs**
+🌱 **I’m currently learning JS and it's useful usages**
 
 ## Projects
-**I'm currently translating the whole osu! game in Slovenian language.**
+**I'm currently an active Slovenian translator for osu!, I like to code stuff and tools for osu!**
+
+If you want to support my work, you can consider buying me a [coffee](https://ko-fi.com/mtkogaming) (or more than that would be more than happy). Thank you!
 
 ## Qualifications
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemsarMa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I am qualified in various languages and IDEs:
+- JavaScript
 - Python (basic)
 - Bash
 - Arduino
@@ -23,18 +26,24 @@ I am qualified in various languages and IDEs:
 
 Also qualified in IT environment, I can work with servers with Linux and manage them, both hardware and software.
 
+## Goals
+
+I want to obtain a CCNA or CCIE certificate and then be able to work in a datacenter or as an IT technician. You're probably wondering, why choosing this over a job, that is "electrical" focused? Simply because I can combine both of them into a single branch.
+
+I highly believe my server infrastructure is non-professional and needs a professional lookup by someone, who is above my level and can advise.
+
 ## Hobbies
 
 I'm my free time, I like to manage my Minecraft network ArtUnionMC and work with Minecraft related things.
 
-My Minecraft network is located in 3 different locations:
+My Minecraft network is located in 2 different locations:
 
 - thisisartunion.com (Europe)
-- na.thisisartunion.com (North America)
 - ap.thisisartunion.com (Asia and Oceania)
 
-I'm streaming as well on Twitch I guess
+I'm streaming as well on Twitch I guess (sometimes...)
 
 ## How to reach me?
 You can hit me up on Discord: **MtkoGaming_TW#0001**
+or join my [Discord server](https://discord.mtkogaming.com)!
 
