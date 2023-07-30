@@ -2,9 +2,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DemsarMa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DemsarMa.DemsarMa)
+![](https://komarev.com/ghpvc/?username=DemsarMa)
 
-:book: **I'm an electrical student based in Slovenia, graduated in highschool and am certified to work in electronic environment.**
+:book: **I'm an electrical student residing in Slovenia, graduated in highschool and am certified to work in electronic environment.**
 
 🌱 **I’m currently learning JS and it's useful usages**
 
@@ -44,6 +44,6 @@ My Minecraft network is located in 2 different locations:
 I'm streaming as well on Twitch I guess (sometimes...)
 
 ## How to reach me?
-You can hit me up on Discord: **MtkoGaming_TW#0001**
+You can hit me up on Discord: **mtko**
 or join my [Discord server](https://discord.mtkogaming.com)!
 
