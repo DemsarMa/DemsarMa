@@ -5,6 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=DemsarMa)
 
 :book: **I'm an electrical student residing in Slovenia, graduated in highschool and am certified to work in electronic environment.**
+
 💼 **Currently employed at Arnes (The Academic and Research Network of Slovenia), the largest network services provider for research, educational and cultural organizations.**
 
 🌱 **I’m currently learning JS and it's useful usages**
